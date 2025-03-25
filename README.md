@@ -1,7 +1,7 @@
 # Projeto de Sistemas - IFES
 Disciplina Projeto de Sistemas do curso Sistemas de Informação.
 
-Este repositório contém submodulos para os repositórios com os códigos e seu README.
+Este repositório contém submodulos para os repositórios com o código fonte e seu README.
 
 # Exercícios
 
