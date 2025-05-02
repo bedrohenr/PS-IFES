@@ -1,3 +1,6 @@
 [submodule "calculadora-reflection"]
 	path = calculadora-reflection
 	url = https://github.com/bedrohenr/calculadora-reflection.git
+[submodule "calculadora-fast-api"]
+	path = calculadora-fast-api
+	url = git@github.com:bedrohenr/calculadora-fast-api.git
